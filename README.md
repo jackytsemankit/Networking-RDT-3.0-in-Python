@@ -1,6 +1,6 @@
 # Networking-RDT-in-Python
 
-These are Python Script that facilitates data transfer using RDT protocol, 3.0 and 4.0 respectively
+These are Python Scripts that facilitate data transfer using RDT protocol, 3.0 and 4.0 respectively
 ![image](https://user-images.githubusercontent.com/56995686/133654680-29c79e95-eae3-4149-a011-7e8086f413b0.png)
 
  # RDT 3.0:
